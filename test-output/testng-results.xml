@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T16:28:06Z" name="Default suite" finished-at="2023-09-27T16:28:06Z" duration-ms="39">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T16:28:06Z" name="Default test" finished-at="2023-09-27T16:28:06Z" duration-ms="39">
+      <class name="rahulshettyacademy.tests.practice">
+        <test-method is-config="true" signature="A()[pri:0, instance:rahulshettyacademy.tests.practice@51fadaff]" started-at="2023-09-27T16:28:06Z" name="A" finished-at="2023-09-27T16:28:06Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method is-config="true" signature="B()[pri:0, instance:rahulshettyacademy.tests.practice@51fadaff]" started-at="2023-09-27T16:28:06Z" name="B" finished-at="2023-09-27T16:28:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method signature="testMethod1()[pri:0, instance:rahulshettyacademy.tests.practice@51fadaff]" started-at="2023-09-27T16:28:06Z" name="testMethod1" finished-at="2023-09-27T16:28:06Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="B()[pri:0, instance:rahulshettyacademy.tests.practice@51fadaff]" started-at="2023-09-27T16:28:06Z" name="B" finished-at="2023-09-27T16:28:06Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method is-config="true" signature="A()[pri:0, instance:rahulshettyacademy.tests.practice@51fadaff]" started-at="2023-09-27T16:28:06Z" name="A" finished-at="2023-09-27T16:28:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method signature="testMethod2()[pri:0, instance:rahulshettyacademy.tests.practice@51fadaff]" started-at="2023-09-27T16:28:06Z" name="testMethod2" finished-at="2023-09-27T16:28:06Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+      </class> <!-- rahulshettyacademy.tests.practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
